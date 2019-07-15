@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 102001,
+    "Health": 5,
+    "Speed": 7,
+    "ProjectileSpeed": 20,
+    "ShootTime": 0.1,
+    "ShipSpriteID": 101001,
+    "ProjectileSpriteID": 101007,
+    "MissileSpriteID": 101008
+  },
+  {
+    "ID": 102002,
+    "Health": 5,
+    "Speed": 5,
+    "ProjectileSpeed": 15,
+    "ShootTime": 0.5,
+    "ShipSpriteID": 101006,
+    "ProjectileSpriteID": 101009,
+    "MissileSpriteID": 0
+  }
+]

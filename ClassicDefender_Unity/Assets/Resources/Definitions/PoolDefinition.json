@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 102001,
+    "Path": "Prefab\\102001",
+    "PoolAmount": 1,
+    "Description": "PlayerPrefab",
+    "PoolType": "Player"
+  },
+  {
+    "ID": 102002,
+    "Path": "Prefab\\102002",
+    "PoolAmount": 30,
+    "Description": "EnemyPrefab",
+    "PoolType": "Enemy"
+  },
+  {
+    "ID": 102003,
+    "Path": "Prefab\\102003",
+    "PoolAmount": 2,
+    "Description": "Background_Layer",
+    "PoolType": "Background"
+  },
+  {
+    "ID": 102004,
+    "Path": "Prefab\\102004",
+    "PoolAmount": 80,
+    "Description": "Projectile",
+    "PoolType": "Projectile"
+  },
+  {
+    "ID": 102005,
+    "Path": "Prefab\\102005",
+    "PoolAmount": 10,
+    "Description": "Missile",
+    "PoolType": "Missile"
+  }
+]

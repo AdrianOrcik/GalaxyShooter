@@ -1,0 +1,72 @@
+[
+  {
+    "ID": 101001,
+    "Path": "Sprite\\101001",
+    "Description": "Player_Ship_1"
+  },
+  {
+    "ID": 101002,
+    "Path": "Sprite\\101002",
+    "Description": "Player_Ship_2"
+  },
+  {
+    "ID": 101003,
+    "Path": "Sprite\\101003",
+    "Description": "Player_Ship_3"
+  },
+  {
+    "ID": 101004,
+    "Path": "Sprite\\101004",
+    "Description": "Enemy_Ship_1"
+  },
+  {
+    "ID": 101005,
+    "Path": "Sprite\\101005",
+    "Description": "Enemy_Ship_2"
+  },
+  {
+    "ID": 101006,
+    "Path": "Sprite\\101006",
+    "Description": "Enemy_Ship_3"
+  },
+  {
+    "ID": 101007,
+    "Path": "Sprite\\101007",
+    "Description": "Player_Laser_1"
+  },
+  {
+    "ID": 101008,
+    "Path": "Sprite\\101008",
+    "Description": "Player_Laser_2"
+  },
+  {
+    "ID": 101009,
+    "Path": "Sprite\\101009",
+    "Description": "Enemy_Laser_1"
+  },
+  {
+    "ID": 101010,
+    "Path": "Sprite\\101010",
+    "Description": "Enemy_Laser_2"
+  },
+  {
+    "ID": 103001,
+    "Path": "Sprite\\103001",
+    "Description": "Gold_Stars"
+  },
+  {
+    "ID": 103002,
+    "Path": "Sprite\\103002",
+    "Description": "Level1_BG"
+  },
+  {
+    "ID": 103003,
+    "Path": "Sprite\\103003",
+    "Description": "Level2_BG"
+  },
+  {
+    "ID": 103004,
+    "Path": "Sprite\\103004",
+    "Description": "Level3_BG"
+  }
+]

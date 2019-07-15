@@ -1,0 +1,191 @@
+[
+  {
+    "Level": 1,
+    "TotalWaves": 4,
+    "TotalEnemy": 16,
+    "WavesList": "0,1,1,0",
+    "ActualWave": 1,
+    "ActualEnemy": 3,
+    "BackgroundID": 103002
+  },
+  {
+    "Level": 1,
+    "TotalWaves": 4,
+    "TotalEnemy": 16,
+    "WavesList": "0,1,1,0",
+    "ActualWave": 2,
+    "ActualEnemy": 3,
+    "BackgroundID": 103002
+  },
+  {
+    "Level": 1,
+    "TotalWaves": 4,
+    "TotalEnemy": 16,
+    "WavesList": "0,1,1,0",
+    "ActualWave": 3,
+    "ActualEnemy": 5,
+    "BackgroundID": 103002
+  },
+  {
+    "Level": 1,
+    "TotalWaves": 4,
+    "TotalEnemy": 16,
+    "WavesList": "0,1,1,0",
+    "ActualWave": 4,
+    "ActualEnemy": 5,
+    "BackgroundID": 103002
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 1,
+    "ActualEnemy": 5,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 2,
+    "ActualEnemy": 3,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 3,
+    "ActualEnemy": 3,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 4,
+    "ActualEnemy": 6,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 5,
+    "ActualEnemy": 6,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 6,
+    "ActualEnemy": 5,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 2,
+    "TotalWaves": 7,
+    "TotalEnemy": 33,
+    "WavesList": "0,3,1,1,2,1,1",
+    "ActualWave": 7,
+    "ActualEnemy": 5,
+    "BackgroundID": 103003
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 1,
+    "ActualEnemy": 6,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 2,
+    "ActualEnemy": 4,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 3,
+    "ActualEnemy": 6,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 4,
+    "ActualEnemy": 5,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 5,
+    "ActualEnemy": 5,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 6,
+    "ActualEnemy": 4,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 7,
+    "ActualEnemy": 6,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 8,
+    "ActualEnemy": 6,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 9,
+    "ActualEnemy": 4,
+    "BackgroundID": 103004
+  },
+  {
+    "Level": 3,
+    "TotalWaves": 10,
+    "TotalEnemy": 53,
+    "WavesList": "1,1,2,2,3,3,4,4,3,4",
+    "ActualWave": 10,
+    "ActualEnemy": 7,
+    "BackgroundID": 103004
+  }
+]
